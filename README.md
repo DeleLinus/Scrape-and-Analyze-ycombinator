@@ -42,11 +42,15 @@ The dependencies and third party libraries for the scraper include:
 - The company location
 - The company short description (Description head)
  using the selenium library since the page is dynamic.
- ![Screenshot (218)](https://user-images.githubusercontent.com/58152694/162059499-b617988b-89d7-44fd-8429-6a1dae01b1e1.png)
+ 
+ 
+![Screenshot (217)](https://user-images.githubusercontent.com/58152694/162059535-208d9fe7-9baf-425a-9572-fd140ad4a201.png)
 
 
  2. I then went through the scraped company's ycombinator page url using requests library since the pages are static, and grab many other informations (company's description, year founded, team size, company page url, social media urls, management details) as they appear for each company.
-![Screenshot (217)](https://user-images.githubusercontent.com/58152694/162059535-208d9fe7-9baf-425a-9572-fd140ad4a201.png)
+
+
+![Screenshot (218)](https://user-images.githubusercontent.com/58152694/162059499-b617988b-89d7-44fd-8429-6a1dae01b1e1.png)
 
 
 3. At the end, I will create a CSV file in the following format:
