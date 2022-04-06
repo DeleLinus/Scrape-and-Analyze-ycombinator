@@ -54,7 +54,7 @@ The dependencies and third party libraries for the scraper include:
 ![Screenshot (218)](https://user-images.githubusercontent.com/58152694/162060085-0af71c1b-705d-49b5-8517-88ecc6b15721.png)
 
 
-3. At the end, I will create a CSV file in the following format:
+3. At the end, I created a CSV file in the following format:
 
 | Company_Name  | Company_Page_URL  | Company_Location |  Description_Head | Website  | Description| Founded| Team_Size| Linkedin_Profile| Twitter_Profile| Facebook_Profile| Crunchbase_Profile| Active_Founder1| Active_Founder2| Active_Founder3
 | ------------- | ------------- | -------- |------------- | ------------- | -------- |------------- | -------- |------------- | ------------- | -------- |------------- | -------- |------------- | ------------- |
