@@ -4,7 +4,7 @@ Ayanwoye Gideon Ayandele – ayanwoyegideon@gmail.com
 
 ## Table of Contents
 1. [ Project Description. ](#desc)
-2. [ Web Scraping ](#scraper)
+2. [ Web Scraping (`ycombinator_scraper.ipynb`/`ycombinator_scraper.py`) ](#scraper)
 3. [ Data Wrangling and Exploration (`EDA_ycombinator.ipynb`) ](#eda)
 4. [ Analysis Summary ](#ana_sum)
 5. [ Details of Charts ](#charts)
@@ -24,7 +24,7 @@ The project main objectives were:
     * data analysis and visualizations
 
 The project was divided into two parts:
-1. [ Web Scraping ](#scraper)
+1. [ Web Scraping (`ycombinator_scraper.ipynb`/`ycombinator_scraper.py`) ](#scraper)
 2. [ Data Wrangling and Exploration (`EDA_ycombinator.ipynb`) ](#eda)
 
 <a name="scraper"></a>
