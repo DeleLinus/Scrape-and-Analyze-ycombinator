@@ -65,7 +65,7 @@ Airbnb|	https://www.ycombinator.com/companies/airbnb|	San Francisco, CA, US,|	Bo
 
 <a name="eda"></a>
 ## Data Wrangling and Exploration (`EDA_ycombinator.ipynb`)
-The dependencies and third party libraries for the scraper include:
+The dependencies and third party libraries for the EDA include:
 * `numpy`       
 * `pandas`
 * `matplotlib`
