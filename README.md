@@ -13,7 +13,7 @@ Ayanwoye Gideon Ayandele – ayanwoyegideon@gmail.com
 <a name="desc"></a>
 # March, 2022 - Scraping, Cleaning and Analyzing  Companies Information as listed on Ycombinator 
 
-The motivation for this project is to achieve an **very basic** end-to-end data engineering project by collecting/scraping, wrangling, cleaning and analysing/visualizing  companies' information listed on https://ycombinator.com/companies.
+The motivation for this project is to achieve a **very basic** end-to-end data engineering project by collecting/scraping, wrangling, cleaning and analysing/visualizing  companies' information listed on https://ycombinator.com/companies.
 
 The project main objectives were:
 1. Perform web scraping
